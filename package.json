@@ -1,0 +1,19 @@
+{
+  "name": "facebook-scrape",
+  "version": "0.0.0",
+  "description": "Tell facebook to scrape a facebook object (object-url or object-instance-id)",
+  "main": "facebook-scrape.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "localtunnel": "^1.4.0",
+    "tape": "^3.0.0"
+  },
+  "dependencies": {
+    "jsonist": "^0.1.1",
+    "stream-to-array": "^2.0.2"
+  }
+}
