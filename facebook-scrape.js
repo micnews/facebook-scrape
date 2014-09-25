@@ -1,7 +1,6 @@
 var qs = require('querystring')
 
   , jsonist = require('jsonist')
-  , toArray = require('stream-to-array')
 
   , facebookScrape = function (href, callback) {
       var url = 'https://graph.facebook.com/?' + qs.stringify({ id: href, scrape: 'true' })
