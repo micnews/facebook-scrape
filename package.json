@@ -13,8 +13,7 @@
     "tape": "^3.0.0"
   },
   "dependencies": {
-    "jsonist": "^0.1.1",
-    "stream-to-array": "^2.0.2"
+    "jsonist": "^0.1.1"
   },
   "repository": {
     "type": "git",
