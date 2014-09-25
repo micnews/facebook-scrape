@@ -15,5 +15,18 @@
   "dependencies": {
     "jsonist": "^0.1.1",
     "stream-to-array": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micnews/facebook-scrape.git"
+  },
+  "keywords": [
+    "facebook",
+    "share",
+    "scrape"
+  ],
+  "bugs": {
+    "url": "https://github.com/micnews/facebook-scrape/issues"
+  },
+  "homepage": "https://github.com/micnews/facebook-scrape"
 }
